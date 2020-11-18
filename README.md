@@ -1,5 +1,3 @@
-# premiumexchanger_plugin
-
 <b>Плагины для работы в PremiumExchanger через Coinpay.com.ua</b>
 
 [Инструкция по установке](https://github.com/coinpay-com-ua/premiumexchanger_plugin/blob/main/How_to_install_on_Premium_Exchanger.pdf)
